@@ -1,0 +1,10 @@
+{
+  "name": "testcafe-healthcare",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "testcafe chrome tests/*.test.js --skip-js-errors"
+  },
+  "devDependencies": {
+    "testcafe": "^3.5.0"
+  }
+}
